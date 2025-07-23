@@ -1,0 +1,64 @@
+/* Body with black and purple background */
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: linear-gradient(to right, #000000 50%, #2e003e 100%);
+  color: #ffffff;
+  font-size: 18px;
+  line-height: 1.8;
+  padding: 40px 10%;
+  scroll-behavior: smooth;
+}
+
+/* Headings */
+h1, h2, h3 {
+  color: #eaeaea;
+  font-weight: 700;
+  text-align: left;
+  margin-bottom: 1rem;
+}
+
+h1 {
+  font-size: 2.6rem;
+}
+h2 {
+  font-size: 2.2rem;
+}
+h3 {
+  font-size: 1.8rem;
+}
+
+/* Paragraphs and content */
+p, li {
+  color: #d8d8d8;
+  text-align: left;
+}
+
+/* TOC sidebar (purple background on black) */
+nav#TOC {
+  position: fixed;
+  top: 100px;
+  right: 40px;
+  background-color: rgba(75, 0, 130, 0.9); /* Deep purple */
+  color: white;
+  padding: 15px 20px;
+  border-radius: 10px;
+  max-width: 220px;
+  font-size: 14px;
+  box-shadow: 0 0 10px rgba(255, 255, 255, 0.15);
+  z-index: 999;
+  backdrop-filter: blur(4px);
+}
+
+nav#TOC ul {
+  list-style: none;
+  padding-left: 0;
+  margin: 0;
+}
+
+nav#TOC li {
+  margin-bottom: 8px;
+}
+
+nav#TOC a {
+  color: #ffffff;
+  text-decoration:

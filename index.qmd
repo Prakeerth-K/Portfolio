@@ -1,0 +1,84 @@
+---
+title: "Prakeerth Kalambeth | MBA Portfolio"
+format:
+  html:
+    toc: true
+    toc-location: right
+    page-layout: full
+    theme:
+      light: [slate, quartz]
+    css: styles/styles.css
+    include-in-header: 
+      - text: |
+          <link href="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.css" rel="stylesheet">
+    include-after-body:
+      - text: |
+          <script src="https://cdn.jsdelivr.net/npm/aos@2.3.4/dist/aos.js"></script>
+          <script>
+            AOS.init({ once: true, duration: 1000 });
+          </script>
+---
+
+# 👋 Bio {#bio}
+
+<div data-aos="fade-up">
+Hi, I’m Prakeerth Kalambeth, an MBA student at University Canada West, specializing in Business Analytics. I’m deeply interested in how data can guide smarter business decisions and help solve real-world problems. With every course, I’m growing more passionate about the power of analytics and how it shapes strategy. I’m excited to build a career in this field and continue learning along the way.
+
+</div>
+
+---
+
+# 🎓 Education {#education}
+
+<div data-aos="fade-up">
+**Master of Business Administration (MBA)**  
+*University Canada West, Vancouver, Canada*  
+*Expected Graduation: 2025*  
+**Electives**: Predictive Analytics, Cloud Computing, Applications of AI in Business
+
+**Bachelor of Commerce (Honours)**  
+*J.K. Business School, India*  
+Graduated: 2021
+</div>
+
+---
+
+# 💼 Experience {#experience}
+
+<div data-aos="fade-up">
+**General Clerk | Save-On-Foods**  
+*Vancouver, BC | 2023 – Present*
+
+Started as a General Clerk, gaining hands-on experience in store operations, inventory management, and customer service. Over time, I was trained in key areas including:
+
+- **Pricing** – Managing price changes and ensuring accuracy across products and systems  
+- **Planograms** – Implementing and adjusting store layouts for optimized product placement  
+- **E-Commerce Fulfillment** – Assisting with online order picking and ensuring timely, accurate customer deliveries
+
+This role has helped me develop practical organizational, time management, and teamwork skills in a dynamic retail environment.
+</div>
+
+---
+
+# 🛠 Skills {#skills}
+
+<div data-aos="fade-up">
+- **Data Analysis & Visualization** – Excel, Tableau, Python  
+- **Business Analytics Concepts** – Predictive Analytics, AI Applications, Data-Driven Decision Making  
+- **Cloud Computing Fundamentals** – Experience with Amazon AWS; familiar with deploying and managing cloud-based applications  
+- **Problem Solving & Critical Thinking** – Strong analytical mindset for interpreting data and making strategic recommendations  
+- **Communication Skills** – Clear and confident in presenting insights and collaborating with diverse teams  
+- **Adaptability & Learning** – Open to new technologies and continuously expanding my skill set  
+- **Professional Portfolio** – View sample projects and code on my [GitHub profile](https://github.com/your-username)
+</div>
+
+---
+
+# 📬 Contact {#contact}
+
+<div data-aos="fade-up">
+- 📧 Email: [prakeerth89@gmail.com](mailto:prakeerth89@gmail.com)  
+- 📞 Phone: +1 (236) 777-3732  
+- 🌐 LinkedIn: [linkedin.com/in/prakeerth-kalambeth](www.linkedin.com/in/prakeerth-kelembath-2250711a7)  
+- 💻 GitHub: [https://github.com/Prakeerth-K](https://prakeerth-k.github.io/Cloud-Portfolio-Prakeerth/)
+</div>
